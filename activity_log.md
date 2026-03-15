@@ -6,3 +6,4 @@
 - [2026-03-15T20:21:01Z] refactor: simplify conditional logic
 - [2026-03-15T17:34:40Z] refactor: simplify conditional logic
 - [2026-03-15T19:00:47Z] refactor: clean up unused imports
+- [2026-03-15T20:07:54Z] perf: optimize loop for better performance
